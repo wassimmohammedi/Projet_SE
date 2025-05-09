@@ -42,4 +42,4 @@ Simple et vérifiable.
 Limite : Peut être lent si une ville a beaucoup plus de bus que l’autre.
 
 Réponse Ultra-Courte (pour un oral)
-« Le code utilise un mutex pour protéger la direction du tunnel et des sémaphores pour faire attendre les bus si besoin. La variable turn alterne l’accès pour être équitable. Les 4 conditions de Coffman sont respectées, donc c’est une solution valide. »
+ Le code utilise un mutex pour protéger la direction du tunnel et des sémaphores pour faire attendre les bus si besoin. La variable turn alterne l’accès pour être équitable. Les 4 conditions de Coffman sont respectées, donc c’est une solution valide. 
